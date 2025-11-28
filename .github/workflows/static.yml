@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SenseAble</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f7fa;
+      color: #222;
+    }
+    header {
+      background: #4a6cf7;
+      color: white;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+    p.subtitle {
+      margin-top: 0.5rem;
+      font-size: 1.2rem;
+      opacity: 0.9;
+    }
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .highlight {
+      color: #4a6cf7;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      margin: 3rem 0;
+      color: #555;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SenseAble</h1>
+    <p class="subtitle">Enhancing Accessibility Through Intelligent Language Adaptation</p>
+  </header>
+
+  <div class="container">
+    <p>
+      <span class="highlight">SenseAble</span> is an accessibility-focused tool designed to support persons with disabilities—especially individuals who can read but may face limitations in other sensory inputs, such as color blindness.
+    </p>
+
+    <p>
+      Our system performs <span class="highlight">personalized analysis</span> and generates <span class="highlight">alternative phrases</span> crafted according to each user's unique sensory profile. The goal is to ensure that digital content becomes more inclusive, understandable, and perceptually accessible.
+    </p>
+
+    <p>
+      We are actively developing and expanding SenseAble to make digital spaces more equitable for everyone.
+    </p>
+  </div>
+
+  <footer>
+    © 2025 SenseAble Project
+  </footer>
+</body>
+</html>
