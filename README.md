@@ -1,6 +1,6 @@
 # SenseAble Frontend
 
-React + TypeScript frontend for the SenseAble accessibility tool.
+React + TypeScript frontend for the SenseAble accessibility tool..
 
 ## Setup
 
