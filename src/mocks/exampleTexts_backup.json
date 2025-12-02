@@ -1,0 +1,648 @@
+{
+  "examples": [
+    {
+      "id": 1,
+      "original_text": "Cotton curtains, while seemingly simple, offer a nuanced blend of practicality and aesthetic refinement that makes them an enduring choice in interior design. Their natural fibers create a breathable, temperature-balancing barrier that subtly filters light, softening a room's ambience without fully obscuring outdoor illumination. This organic texture lends an understated elegance that integrates seamlessly into both contemporary and traditional spaces. Beyond appearance, cotton's washability and durability contribute to its long-term value; however, these virtues are tempered by its propensity to wrinkle and its vulnerability to gradual fading when exposed to sustained sunlight. Unlined cotton panels, in particular, struggle to achieve the depth of light control provided by synthetic or blackout alternatives, which may be a consideration for users seeking heightened privacy or darkness. Nonetheless, the tactile warmth, visual softness, and ecological appeal of cotton make it a sophisticated option for homeowners who prioritize comfort, natural materials, and a subtle interplay of light and texture.",
+      "gentle_rewrite": "Cotton curtains, while seemingly simple, offer a careful mix of practicality and very neat and stylish look that makes them an enduring choice in interior design. Their natural fibers create a breathable, layer that helps keep the room not too hot or cold that subtly filters light, softening a room's ambience without fully obscuring outdoor illumination. This organic texture lends a simple but classy look that integrates seamlessly into both contemporary and traditional spaces. Beyond appearance, cotton's washability and durability contribute to its long-term value; however, these virtues are tempered by its propensity to wrinkle and its vulnerability to gradual fading when exposed to sustained sunlight. Unlined cotton panels, in particular, struggle to achieve the depth of light control provided by synthetic or blackout alternatives, which may be a consideration for users seeking heightened privacy or darkness. Nonetheless, the pleasant, cozy feel to the touch, visual softness, and ecological appeal of cotton make it a sophisticated option for homeowners who prioritize comfort, natural materials, and a gentle way light and fabric surface work together.",
+      "full_rewrite": "Cotton curtains, while seemingly simple, offer a careful mix of usefulness in everyday life and very neat and stylish look that makes them an enduring choice in how the inside of a room is arranged and decorated. Their natural fibers create a lets air pass through, layer that helps keep the room not too hot or cold that subtly filters light, softening a room's overall feeling in the room without fully obscuring outdoor illumination. This natural feel of the fabric lends a simple but classy look that integrates seamlessly into both contemporary and traditional spaces. Beyond appearance, cotton's easy to wash and long-lasting contribute to its long-term value; however, these virtues are tempered by its tends to get creased easily and its can slowly lose its color over time when exposed to sustained sunlight. Unlined cotton panels, in particular, struggle to achieve the depth of light control provided by other curtains made from man-made or blackout fabrics, which may be a consideration for users seeking heightened privacy or darkness. Nonetheless, the pleasant, cozy feel to the touch, visual softness, and good for the environment of cotton make it a sophisticated option for homeowners who prioritize comfort, natural materials, and a gentle way light and fabric surface work together.",
+      "tagged_phrases": [
+        {
+          "phrase": "nuanced blend",
+          "tag": "not_familiar",
+          "start_index": 49,
+          "end_index": 62,
+          "explanation": "This phrase may be too complex for most readers. Using simpler language makes the text more accessible.",
+          "rephrased_versions": [
+            {
+              "replacement": "careful mix",
+              "length": 11
+            },
+            {
+              "replacement": "fine combination",
+              "length": 16
+            }
+          ]
+        },
+        {
+          "phrase": "practicality",
+          "tag": "somewhat_familiar",
+          "start_index": 66,
+          "end_index": 78,
+          "explanation": "A somewhat technical term that can be made clearer for better understanding.",
+          "rephrased_versions": [
+            {
+              "replacement": "usefulness in everyday life",
+              "length": 27
+            },
+            {
+              "replacement": "how easy it is to use",
+              "length": 21
+            }
+          ]
+        },
+        {
+          "phrase": "aesthetic refinement",
+          "tag": "not_familiar",
+          "start_index": 83,
+          "end_index": 103,
+          "explanation": "This formal phrase is difficult for many readers. A simpler alternative improves clarity.",
+          "rephrased_versions": [
+            {
+              "replacement": "very neat and stylish look",
+              "length": 26
+            },
+            {
+              "replacement": "polished, good-looking style",
+              "length": 27
+            }
+          ]
+        },
+        {
+          "phrase": "interior design",
+          "tag": "somewhat_familiar",
+          "start_index": 142,
+          "end_index": 157,
+          "explanation": "While commonly used, explaining this concept more simply helps all readers.",
+          "rephrased_versions": [
+            {
+              "replacement": "how the inside of a room is arranged and decorated",
+              "length": 53
+            },
+            {
+              "replacement": "the way a room looks and is set up",
+              "length": 32
+            }
+          ]
+        },
+        {
+          "phrase": "temperature-balancing barrier",
+          "tag": "not_familiar",
+          "start_index": 201,
+          "end_index": 231,
+          "explanation": "This complex technical term needs simplification for most readers.",
+          "rephrased_versions": [
+            {
+              "replacement": "layer that helps keep the room not too hot or cold",
+              "length": 56
+            },
+            {
+              "replacement": "fabric that helps even out the room temperature",
+              "length": 50
+            }
+          ]
+        },
+        {
+          "phrase": "ambience",
+          "tag": "somewhat_familiar",
+          "start_index": 277,
+          "end_index": 285,
+          "explanation": "A French-origin word that may not be clear to all readers.",
+          "rephrased_versions": [
+            {
+              "replacement": "overall feeling in the room",
+              "length": 28
+            },
+            {
+              "replacement": "mood or atmosphere of the space",
+              "length": 33
+            }
+          ]
+        },
+        {
+          "phrase": "organic texture",
+          "tag": "somewhat_familiar",
+          "start_index": 337,
+          "end_index": 352,
+          "explanation": "This descriptor can be explained more concretely for better comprehension.",
+          "rephrased_versions": [
+            {
+              "replacement": "natural feel of the fabric",
+              "length": 27
+            },
+            {
+              "replacement": "surface that feels natural and real",
+              "length": 36
+            }
+          ]
+        },
+        {
+          "phrase": "understated elegance",
+          "tag": "not_familiar",
+          "start_index": 362,
+          "end_index": 382,
+          "explanation": "An abstract phrase that's hard for most readers to visualize.",
+          "rephrased_versions": [
+            {
+              "replacement": "simple but classy look",
+              "length": 22
+            },
+            {
+              "replacement": "quiet, gentle kind of beauty",
+              "length": 30
+            }
+          ]
+        },
+        {
+          "phrase": "propensity to wrinkle",
+          "tag": "somewhat_familiar",
+          "start_index": 590,
+          "end_index": 611,
+          "explanation": "The word 'propensity' is formal and can be simplified.",
+          "rephrased_versions": [
+            {
+              "replacement": "tends to get creased easily",
+              "length": 27
+            },
+            {
+              "replacement": "likely to show wrinkles quickly",
+              "length": 31
+            }
+          ]
+        },
+        {
+          "phrase": "vulnerability to gradual fading",
+          "tag": "somewhat_familiar",
+          "start_index": 620,
+          "end_index": 651,
+          "explanation": "A complex phrase that describes a simple concept.",
+          "rephrased_versions": [
+            {
+              "replacement": "can slowly lose its color over time",
+              "length": 36
+            },
+            {
+              "replacement": "may gently fade if it gets a lot of sun",
+              "length": 40
+            }
+          ]
+        },
+        {
+          "phrase": "synthetic or blackout alternatives",
+          "tag": "somewhat_familiar",
+          "start_index": 785,
+          "end_index": 819,
+          "explanation": "Technical terminology that benefits from plain language explanation.",
+          "rephrased_versions": [
+            {
+              "replacement": "other curtains made from man-made or blackout fabrics",
+              "length": 57
+            },
+            {
+              "replacement": "different options like man-made or fully darkening curtains",
+              "length": 63
+            }
+          ]
+        },
+        {
+          "phrase": "tactile warmth",
+          "tag": "not_familiar",
+          "start_index": 917,
+          "end_index": 931,
+          "explanation": "A sophisticated descriptor that needs simplification.",
+          "rephrased_versions": [
+            {
+              "replacement": "pleasant, cozy feel to the touch",
+              "length": 33
+            },
+            {
+              "replacement": "feels warm and comforting when you touch it",
+              "length": 47
+            }
+          ]
+        },
+        {
+          "phrase": "ecological appeal",
+          "tag": "somewhat_familiar",
+          "start_index": 954,
+          "end_index": 971,
+          "explanation": "Environmental terminology that can be stated more simply.",
+          "rephrased_versions": [
+            {
+              "replacement": "good for the environment",
+              "length": 24
+            },
+            {
+              "replacement": "environment-friendly advantage",
+              "length": 31
+            }
+          ]
+        },
+        {
+          "phrase": "subtle interplay of light and texture",
+          "tag": "not_familiar",
+          "start_index": 1077,
+          "end_index": 1114,
+          "explanation": "An overly poetic phrase that obscures meaning for many readers.",
+          "rephrased_versions": [
+            {
+              "replacement": "gentle way light and fabric surface work together",
+              "length": 52
+            },
+            {
+              "replacement": "soft mix of how light falls on the fabric and how it feels",
+              "length": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original_text": "Over the past year, we've worked with dozens of teams building large language model (LLM) agents across industries. Consistently, the most successful implementations weren't using complex frameworks or specialized libraries. Instead, they were building with simple, composable patterns. In this post, we share what we've learned from working with our customers and building agents ourselves, and give practical advice for developers on building effective agents.",
+      "tagged_phrases": [
+        {
+          "phrase": "large language model",
+          "tag": "not_familiar",
+          "start_index": 69,
+          "end_index": 89,
+          "explanation": "Technical AI jargon that most readers won't understand.",
+          "rephrased_versions": [
+            {
+              "replacement": "advanced AI system",
+              "length": 18
+            },
+            {
+              "replacement": "smart text program",
+              "length": 18
+            }
+          ]
+        },
+        {
+          "phrase": "LLM agents",
+          "tag": "not_familiar",
+          "start_index": 91,
+          "end_index": 101,
+          "explanation": "Industry-specific acronym that needs clarification.",
+          "rephrased_versions": [
+            {
+              "replacement": "AI helpers",
+              "length": 10
+            },
+            {
+              "replacement": "smart assistants",
+              "length": 16
+            }
+          ]
+        },
+        {
+          "phrase": "complex frameworks",
+          "tag": "somewhat_familiar",
+          "start_index": 182,
+          "end_index": 200,
+          "explanation": "Programming terminology that benefits from simplification.",
+          "rephrased_versions": [
+            {
+              "replacement": "complicated tools",
+              "length": 17
+            },
+            {
+              "replacement": "heavy systems",
+              "length": 13
+            }
+          ]
+        },
+        {
+          "phrase": "specialized libraries",
+          "tag": "somewhat_familiar",
+          "start_index": 204,
+          "end_index": 225,
+          "explanation": "Developer jargon that can be stated more plainly.",
+          "rephrased_versions": [
+            {
+              "replacement": "specific tools",
+              "length": 14
+            },
+            {
+              "replacement": "custom packages",
+              "length": 15
+            }
+          ]
+        },
+        {
+          "phrase": "composable patterns",
+          "tag": "somewhat_familiar",
+          "start_index": 264,
+          "end_index": 283,
+          "explanation": "Abstract programming concept that needs clearer explanation.",
+          "rephrased_versions": [
+            {
+              "replacement": "reusable designs",
+              "length": 16
+            },
+            {
+              "replacement": "building blocks",
+              "length": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original_text": "Cotton curtains, while seemingly simple, offer a careful mix of practicality and very neat and stylish look that makes them an enduring choice in interior design. Their natural fibers create a breathable, layer that helps keep the room not too hot or cold that subtly filters light, softening a room's ambience without fully obscuring outdoor illumination. This organic texture lends a simple but classy look that integrates seamlessly into both contemporary and traditional spaces. Beyond appearance, cotton's washability and durability contribute to its long-term value; however, these virtues are tempered by its propensity to wrinkle and its vulnerability to gradual fading when exposed to sustained sunlight. Unlined cotton panels, in particular, struggle to achieve the depth of light control provided by synthetic or blackout alternatives, which may be a consideration for users seeking heightened privacy or darkness. Nonetheless, the pleasant, cozy feel to the touch, visual softness, and ecological appeal of cotton make it a sophisticated option for homeowners who prioritize comfort, natural materials, and a gentle way light and fabric surface work together.",
+      "tagged_phrases": [
+        {
+          "phrase": "ambience",
+          "tag": "somewhat_familiar",
+          "start_index": 302,
+          "end_index": 310,
+          "explanation": "This word may still be unfamiliar to some readers.",
+          "rephrased_versions": [
+            {
+              "replacement": "atmosphere",
+              "length": 10
+            },
+            {
+              "replacement": "mood",
+              "length": 4
+            }
+          ]
+        },
+        {
+          "phrase": "organic texture",
+          "tag": "somewhat_familiar",
+          "start_index": 362,
+          "end_index": 377,
+          "explanation": "This phrase can be made more concrete.",
+          "rephrased_versions": [
+            {
+              "replacement": "natural look",
+              "length": 12
+            },
+            {
+              "replacement": "fabric feel",
+              "length": 11
+            }
+          ]
+        },
+        {
+          "phrase": "propensity to wrinkle",
+          "tag": "somewhat_familiar",
+          "start_index": 616,
+          "end_index": 637,
+          "explanation": "The word 'propensity' can be simplified.",
+          "rephrased_versions": [
+            {
+              "replacement": "tendency to wrinkle",
+              "length": 19
+            },
+            {
+              "replacement": "easily wrinkles",
+              "length": 15
+            }
+          ]
+        },
+        {
+          "phrase": "vulnerability to gradual fading",
+          "tag": "not_familiar",
+          "start_index": 646,
+          "end_index": 677,
+          "explanation": "This complex phrase can be stated more simply.",
+          "rephrased_versions": [
+            {
+              "replacement": "may fade over time",
+              "length": 18
+            },
+            {
+              "replacement": "can lose color slowly",
+              "length": 21
+            }
+          ]
+        },
+        {
+          "phrase": "synthetic or blackout alternatives",
+          "tag": "somewhat_familiar",
+          "start_index": 811,
+          "end_index": 845,
+          "explanation": "Technical terms that benefit from clarification.",
+          "rephrased_versions": [
+            {
+              "replacement": "man-made or darkening curtains",
+              "length": 31
+            },
+            {
+              "replacement": "other curtain types",
+              "length": 19
+            }
+          ]
+        },
+        {
+          "phrase": "ecological appeal",
+          "tag": "somewhat_familiar",
+          "start_index": 998,
+          "end_index": 1015,
+          "explanation": "Environmental terminology that can be simpler.",
+          "rephrased_versions": [
+            {
+              "replacement": "eco-friendly nature",
+              "length": 19
+            },
+            {
+              "replacement": "environmental benefit",
+              "length": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original_text": "Cotton curtains, while seemingly simple, offer a careful mix of usefulness in everyday life and very neat and stylish look that makes them an enduring choice in how the inside of a room is arranged and decorated. Their natural fibers create a lets air pass through, layer that helps keep the room not too hot or cold that subtly filters light, softening a room's overall feeling in the room without fully obscuring outdoor illumination. This natural feel of the fabric lends a simple but classy look that integrates seamlessly into both contemporary and traditional spaces. Beyond appearance, cotton's easy to wash and long-lasting contribute to its long-term value; however, these virtues are tempered by its tends to get creased easily and its can slowly lose its color over time when exposed to sustained sunlight. Unlined cotton panels, in particular, struggle to achieve the depth of light control provided by other curtains made from man-made or blackout fabrics, which may be a consideration for users seeking heightened privacy or darkness. Nonetheless, the pleasant, cozy feel to the touch, visual softness, and good for the environment of cotton make it a sophisticated option for homeowners who prioritize comfort, natural materials, and a gentle way light and fabric surface work together.",
+      "tagged_phrases": [
+        {
+          "phrase": "enduring choice",
+          "tag": "not_familiar",
+          "start_index": 142,
+          "end_index": 157,
+          "explanation": "This phrase might be unclear to some readers.",
+          "rephrased_versions": [
+            {
+              "replacement": "lasting option",
+              "length": 14
+            },
+            {
+              "replacement": "popular choice",
+              "length": 14
+            }
+          ]
+        },
+        {
+          "phrase": "contemporary",
+          "tag": "somewhat_familiar",
+          "start_index": 537,
+          "end_index": 549,
+          "explanation": "A formal word that can be simplified.",
+          "rephrased_versions": [
+            {
+              "replacement": "modern",
+              "length": 6
+            },
+            {
+              "replacement": "current",
+              "length": 7
+            }
+          ]
+        },
+        {
+          "phrase": "virtues",
+          "tag": "not_familiar",
+          "start_index": 682,
+          "end_index": 689,
+          "explanation": "This formal word can be made simpler.",
+          "rephrased_versions": [
+            {
+              "replacement": "benefits",
+              "length": 8
+            },
+            {
+              "replacement": "good points",
+              "length": 11
+            }
+          ]
+        },
+        {
+          "phrase": "tempered by",
+          "tag": "not_familiar",
+          "start_index": 694,
+          "end_index": 705,
+          "explanation": "This phrase is abstract and can be clearer.",
+          "rephrased_versions": [
+            {
+              "replacement": "balanced by",
+              "length": 11
+            },
+            {
+              "replacement": "offset by",
+              "length": 9
+            }
+          ]
+        },
+        {
+          "phrase": "heightened privacy",
+          "tag": "somewhat_familiar",
+          "start_index": 1017,
+          "end_index": 1035,
+          "explanation": "Can be stated more simply.",
+          "rephrased_versions": [
+            {
+              "replacement": "more privacy",
+              "length": 12
+            },
+            {
+              "replacement": "better privacy",
+              "length": 14
+            }
+          ]
+        },
+        {
+          "phrase": "sophisticated option",
+          "tag": "not_familiar",
+          "start_index": 1166,
+          "end_index": 1186,
+          "explanation": "This formal phrase can be simplified.",
+          "rephrased_versions": [
+            {
+              "replacement": "smart choice",
+              "length": 12
+            },
+            {
+              "replacement": "refined choice",
+              "length": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original_text": "Cotton curtains are a simple yet effective choice for home decoration. They create a breathable layer that keeps rooms comfortable and filters light nicely. The natural fabric has a clean look that works well in both modern and traditional rooms. Cotton is easy to wash and durable, though it can wrinkle and may fade in bright sunlight. For light blocking, cotton panels aren't as effective as synthetic curtains, which matters if you need privacy or darkness. Still, cotton's soft texture and environmental benefits make it a good choice for those who value comfort and natural materials.",
+      "tagged_phrases": [
+        {
+          "phrase": "effective choice",
+          "tag": "somewhat_familiar",
+          "start_index": 28,
+          "end_index": 44,
+          "explanation": "This phrase could be simplified further.",
+          "rephrased_versions": [
+            {
+              "replacement": "good option",
+              "length": 11
+            },
+            {
+              "replacement": "smart pick",
+              "length": 10
+            }
+          ]
+        },
+        {
+          "phrase": "home decoration",
+          "tag": "somewhat_familiar",
+          "start_index": 49,
+          "end_index": 64,
+          "explanation": "Can be stated more simply.",
+          "rephrased_versions": [
+            {
+              "replacement": "decorating your home",
+              "length": 20
+            },
+            {
+              "replacement": "house decor",
+              "length": 11
+            }
+          ]
+        },
+        {
+          "phrase": "natural fabric",
+          "tag": "not_familiar",
+          "start_index": 150,
+          "end_index": 164,
+          "explanation": "This term might need clarification.",
+          "rephrased_versions": [
+            {
+              "replacement": "cotton material",
+              "length": 15
+            },
+            {
+              "replacement": "fabric from plants",
+              "length": 18
+            }
+          ]
+        },
+        {
+          "phrase": "durable",
+          "tag": "somewhat_familiar",
+          "start_index": 249,
+          "end_index": 256,
+          "explanation": "A word that can be made simpler.",
+          "rephrased_versions": [
+            {
+              "replacement": "long-lasting",
+              "length": 12
+            },
+            {
+              "replacement": "sturdy",
+              "length": 6
+            }
+          ]
+        },
+        {
+          "phrase": "synthetic curtains",
+          "tag": "not_familiar",
+          "start_index": 350,
+          "end_index": 368,
+          "explanation": "Technical term that needs simplification.",
+          "rephrased_versions": [
+            {
+              "replacement": "man-made curtains",
+              "length": 17
+            },
+            {
+              "replacement": "plastic-based curtains",
+              "length": 22
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
